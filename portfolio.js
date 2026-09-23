@@ -19,6 +19,15 @@ const translations = {
   }
 };
 
+Object.assign(translations.pt, {
+  webProject: "Projecto web bilingue",
+  liveDemo: "Ver site",
+  medibookCopy: "Experiência responsiva para marcação de consultas, descoberta de médicos e um fluxo de reserva claro.",
+  novaCopy: "Loja online moderna com descoberta de produtos, categorias e uma experiência de compra bilingue.",
+  clientflowCopy: "Landing page de CRM focada em leads, relações com clientes e produtividade da equipa.",
+  finoraCopy: "Conceito de dashboard fintech para acompanhar saldos, despesas e objectivos financeiros."
+});
+
 const english = {};
 document.querySelectorAll("[data-i18n]").forEach((element) => { english[element.dataset.i18n] ??= element.textContent; });
 
