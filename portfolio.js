@@ -22,6 +22,7 @@ const translations = {
 Object.assign(translations.pt, {
   webProject: "Projecto web bilingue",
   liveDemo: "Ver site",
+  viewDetails: "Ver detalhes",
   medibookCopy: "Experiência responsiva para marcação de consultas, descoberta de médicos e um fluxo de reserva claro.",
   novaCopy: "Loja online moderna com descoberta de produtos, categorias e uma experiência de compra bilingue.",
   clientflowCopy: "Landing page de CRM focada em leads, relações com clientes e produtividade da equipa.",
