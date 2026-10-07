@@ -25,7 +25,7 @@ Object.assign(translations.pt, {
   viewDetails: "Ver detalhes",
   medibookCopy: "Experiência responsiva para marcação de consultas, descoberta de médicos e um fluxo de reserva claro.",
   novaCopy: "Loja online moderna com descoberta de produtos, categorias e uma experiência de compra bilingue.",
-  clientflowCopy: "Landing page de CRM focada em leads, relações com clientes e produtividade da equipa.",
+  clientflowCopy: "CRM bilingue interactivo com edição de leads, funil comercial, tarefas, relatórios e exportação CSV. O código do SaaS inclui autenticação e persistência em PostgreSQL.",
   finoraCopy: "Conceito de dashboard fintech para acompanhar saldos, despesas e objectivos financeiros."
 });
 
