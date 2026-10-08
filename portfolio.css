@@ -169,6 +169,7 @@ button { font: inherit; }
 .clientflow-product{padding:0;background:#eef1f8;overflow:hidden}.clientflow-product img{display:block;width:100%;height:100%;object-fit:cover;object-position:top left}
 
 /* Full Stack portfolio edition */
+.contact-actions { flex-wrap: wrap; }
 .hero h1{font-size:clamp(2.5rem,4.8vw,4.8rem)}
 .resume-note{font-size:.8rem;color:#b5c6d9;margin-top:18px;max-width:38rem}
 .training{background:var(--paper-alt)}
