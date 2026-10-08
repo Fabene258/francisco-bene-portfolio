@@ -176,3 +176,7 @@ button { font: inherit; }
 .project-featured .clientflow-product{min-height:340px}
 .cta-row{flex-wrap:wrap}
 @media(max-width:600px){.cta-row .button{flex:1 1 100%;justify-content:space-between}.project-featured .clientflow-product{min-height:220px}.hero h1{font-size:2.7rem}}
+.contact-messenger{gap:18px;border:1px solid rgba(255,255,255,.65);box-shadow:0 8px 24px rgba(0,0,0,.1)}
+.whatsapp-link{background:#e4fff0;color:#075c38}.telegram-link{background:#e7f5ff;color:#064c79}
+.contact-number{margin:-24px 0 30px;font-size:1.1rem;font-weight:600}.contact-number a{white-space:nowrap;border-bottom:1px solid rgba(255,255,255,.5)}
+@media(max-width:600px){.contact-messenger{width:100%;justify-content:space-between}.contact-actions{gap:18px}.contact-number{font-size:1rem}}
